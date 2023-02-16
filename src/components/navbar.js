@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-8 py-5">
         <div className="flex items-center justify-between h-16">
           <div className="w-full justify-between flex items-center ">
-            <a href="/" className="text-white flex-shrink-0 font-poppins">
+            <a href="https://rahuldemaverick.github.io/Protfolio-/" className="text-white flex-shrink-0 font-poppins">
               Home
             </a>
             <div className="hidden md:block">
