@@ -1,5 +1,5 @@
 import React from 'react'
-import Fade from "react-reveal/Fade"
+import Fade from "react-reveal/Fade";
 import neu from "../../images/neu.jpg"
 import tcs from "../../images/tcs.jpeg"
 import intel from "../../images/intel.jpeg"
@@ -131,7 +131,7 @@ const WorkPage = () => {
                   </h1>
                   <h1 className="text-2xl">
                   Software Deveoper</h1>
-                  <h1 className="text-1xl">Mar 2018 - Apr 2021</h1>
+                  <h1 className="text-1xl">Mar 2018 - Aug 2021</h1>
                 <p className="mt-5 opacity-70">
                 Developed microservices in Java, Groovy, and nodejs following all software development practices such as (LDD, HDD, TDD, Unit testing, and CICD pipelining) – improved scalability and fault tolerance, 
                 successfully integrated the microservices with monitoring tools like AppDynamics and created a dashboard on performance- Helps identify the issues 30% faster and reduce human efforts in production support, 
@@ -146,6 +146,5 @@ const WorkPage = () => {
         </div>
       )
 }
-
 
 export default WorkPage
