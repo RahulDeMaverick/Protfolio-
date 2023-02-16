@@ -1,6 +1,6 @@
 module.exports = {
 
-  pathPrefix: "/prachiportfolio",
+  pathPrefix: "Protfolio-",
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
