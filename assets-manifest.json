@@ -22,8 +22,9 @@
   "component---src-pages-projects-js-b37a5e4d785f188b68c2.js.map": "component---src-pages-projects-js-b37a5e4d785f188b68c2.js.map",
   "component---src-pages-projects-js.js": "component---src-pages-projects-js-b37a5e4d785f188b68c2.js",
   "component---src-pages-work-js-52d479c2886609910542.js.map": "component---src-pages-work-js-52d479c2886609910542.js.map",
+  "component---src-pages-work-js-6f4dde7f0054022842da.js.map": "component---src-pages-work-js-6f4dde7f0054022842da.js.map",
   "component---src-pages-work-js-b1735ee965ba2074b849.js.map": "component---src-pages-work-js-b1735ee965ba2074b849.js.map",
-  "component---src-pages-work-js.js": "component---src-pages-work-js-52d479c2886609910542.js",
+  "component---src-pages-work-js.js": "component---src-pages-work-js-6f4dde7f0054022842da.js",
   "framework-675a07cb9aff63570c38.js.LICENSE.txt": "framework-675a07cb9aff63570c38.js.LICENSE.txt",
   "framework-675a07cb9aff63570c38.js.map": "framework-675a07cb9aff63570c38.js.map",
   "framework.js": "framework-675a07cb9aff63570c38.js",
@@ -49,6 +50,7 @@
   "webpack-runtime-45134661369ecdca5fa3.js.map": "webpack-runtime-45134661369ecdca5fa3.js.map",
   "webpack-runtime-6457b83b1eab62a537e4.js.map": "webpack-runtime-6457b83b1eab62a537e4.js.map",
   "webpack-runtime-86fd840ca4268126cc52.js.map": "webpack-runtime-86fd840ca4268126cc52.js.map",
+  "webpack-runtime-d6d014ec8b69de6c1a7f.js.map": "webpack-runtime-d6d014ec8b69de6c1a7f.js.map",
   "webpack-runtime-ec0d3dfb06c206d88820.js.map": "webpack-runtime-ec0d3dfb06c206d88820.js.map",
-  "webpack-runtime.js": "webpack-runtime-ec0d3dfb06c206d88820.js"
+  "webpack-runtime.js": "webpack-runtime-d6d014ec8b69de6c1a7f.js"
 }
