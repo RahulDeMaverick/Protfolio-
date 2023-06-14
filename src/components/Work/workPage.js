@@ -130,7 +130,7 @@ const WorkPage = () => {
                   Tata Consultancy Services
                   </h1>
                   <h1 className="text-2xl">
-                  Software Deveoper</h1>
+                  Software development Engineer</h1>
                   <h1 className="text-1xl">Mar 2018 - Aug 2021</h1>
                 <p className="mt-5 opacity-70">
                 Developed microservices in Java, Groovy, and nodejs following all software development practices such as (LDD, HDD, TDD, Unit testing, and CICD pipelining) – improved scalability and fault tolerance, 
